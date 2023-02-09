@@ -1,7 +1,12 @@
-# MNIST
+# MNIST and COIL100 Classification
 Here, we introduce the PyTorch libraries in Python, and we will discuss the two models that we will use to classify our datasets. 
-The models are conventional Neural Network (NN) or Multi-Layer Perceptron (MLP), and Convolutional Neural Network (CNN).
-
+The models are 
+- conventional Neural Network (NN) or Multi-Layer Perceptron (MLP), 
+- and Convolutional Neural Network (CNN).
+![image](https://user-images.githubusercontent.com/83058686/217935667-4683138e-29d2-437e-a008-a6f1f0cbd222.png)
+![image](https://user-images.githubusercontent.com/83058686/217935717-a729cb96-267d-4924-8c86-2dc818b2dcc0.png)
+ 
+# MNIST
 ## Loading Data
 PyTorch provides two data primitives: torch.utils.data.DataLoader and torch.utils.data.Dataset that allow us to use pre-loaded datasets as well as our own data. 
 Dataset stores the samples and their corresponding labels, and DataLoader wraps an iterable around the Dataset to enable easy access to the samples.
