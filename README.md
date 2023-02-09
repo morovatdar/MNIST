@@ -3,6 +3,7 @@ Here, we introduce the PyTorch libraries in Python, and we will discuss the two 
 The models are 
 - conventional Neural Network (NN) or Multi-Layer Perceptron (MLP), 
 - and Convolutional Neural Network (CNN).
+  
 ![image](https://user-images.githubusercontent.com/83058686/217935667-4683138e-29d2-437e-a008-a6f1f0cbd222.png)
 ![image](https://user-images.githubusercontent.com/83058686/217935717-a729cb96-267d-4924-8c86-2dc818b2dcc0.png)
  
